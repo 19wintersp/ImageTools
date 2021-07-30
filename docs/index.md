@@ -8,6 +8,8 @@ title: ImageTools Docs
 
 **ImageTools is a set of tools for working with images from the command line.**
 
+If you have any issues with the docs or the software, please [open an issue](https://github.com/19wintersp/ImageTools/issues/new) on the GitHub repo.
+
 ## All pages
 
 * [Basic usage](usage.html)
