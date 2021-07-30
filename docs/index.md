@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+---
+title: ImageTools Docs
+---
 
-You can use the [editor on GitHub](https://github.com/19wintersp/ImageTools/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+*[Hosted on GitHub Pages](https://19wintersp.github.io/ImageTools/).*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# ImageTools Docs
 
-### Markdown
+**ImageTools is a set of tools for working with images from the command line.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## All pages
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/19wintersp/ImageTools/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Basic usage](usage.html)
+* [Image formats](formats.html)
+* [Tools](tools/)
+	* [Border](tools/border.html)
+	* [Color](tools/color.html)
+	* [Concat](tools/concat.html)
+	* [Convert](tools/convert.html)
+	* [Crop](tools/crop.html)
+	* [Filter](tools/filter.html)
+	* [Info](tools/info.html)
+	* [Layer](tools/layer.html)
+	* [Pixel](tools/pixel.html)
+	* [Resize](tools/resize.html)
+	* [Transform](tools/transform.html)
+	* [Text](tools/text.html)
+* [Licensing](licensing.html)
