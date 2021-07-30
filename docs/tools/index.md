@@ -1,5 +1,5 @@
 ---
-title: Tools | ImageTools Docs
+title: Tools
 ---
 
 [Home](https://19wintersp.github.io/ImageTools/)

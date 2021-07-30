@@ -1,8 +1,8 @@
 ---
-title: ImageTools Docs
+title: Home
 ---
 
-*[Hosted on GitHub Pages](https://19wintersp.github.io/ImageTools/).*
+[Home](https://19wintersp.github.io/ImageTools/)
 
 # ImageTools Docs
 

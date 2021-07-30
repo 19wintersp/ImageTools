@@ -1,5 +1,5 @@
 ---
-title: Basic Usage | ImageTools Docs
+title: Basic Usage
 ---
 
 [Home](https://19wintersp.github.io/ImageTools/)

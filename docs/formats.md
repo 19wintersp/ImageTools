@@ -1,5 +1,5 @@
 ---
-title: Image Formats | ImageTools Docs
+title: Image Formats
 ---
 
 [Home](https://19wintersp.github.io/ImageTools/)

@@ -1,5 +1,5 @@
 ---
-title: Licensing | ImageTools Docs
+title: Licensing
 ---
 
 [Home](https://19wintersp.github.io/ImageTools/)

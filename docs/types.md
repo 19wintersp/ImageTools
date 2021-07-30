@@ -1,5 +1,5 @@
 ---
-title: Types | ImageTools Docs
+title: Types
 ---
 
 [Home](https://19wintersp.github.io/ImageTools/)
