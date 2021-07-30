@@ -1,0 +1,17 @@
+[package]
+name = "imgtools"
+version = "0.0.0"
+authors = [ "Patrick Winters <19wintersp@gmail.com>" ]
+edition = "2018"
+description = "A set of tools for working with images from the command line"
+
+[dependencies]
+image = "0.23.14"
+clap = "2.33.3"
+color_processing = "0.6.0"
+typer = "0.1.1"
+font-kit = "0.10.1"
+
+[[bin]]
+name = "imgt"
+path = "src/main.rs"
