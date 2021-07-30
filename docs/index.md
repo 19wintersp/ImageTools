@@ -13,6 +13,7 @@ If you have any issues with the docs or the software, please [open an issue](htt
 ## All pages
 
 * [Basic usage](usage.html)
+* [Types](types.html)
 * [Image formats](formats.html)
 * [Tools](tools/)
 	* [Border](tools/border.html)
